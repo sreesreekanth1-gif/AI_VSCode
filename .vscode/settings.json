@@ -1,0 +1,6 @@
+{
+  "github.copilot.advanced.allowFileCreation": true,
+  "github.copilot.advanced.enableFileOperations": true,
+  "files.exclude": {},
+  "search.exclude": {}
+}
